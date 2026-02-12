@@ -7,6 +7,7 @@ public class Principal {
         carro1.anoFabricacao = 2015;
         carro1.cor = "BRANCO";
 
-        System.out.println(carro1.cor);
+        carro1.fichaTecnica();
+
     }
 }
