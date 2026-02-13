@@ -7,7 +7,6 @@ public class Principal {
         carro1.anoFabricacao = 2015;
         carro1.cor = "BRANCO";
 
-        carro1.fichaTecnica();
-
+        carro1.getFichatecnica();
     }
 }
